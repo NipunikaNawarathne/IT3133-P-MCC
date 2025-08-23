@@ -26,6 +26,3 @@ You can run these snippets in any JavaScript environment:
 - Node.js terminal
 
 ---
-
-Happy coding! 💻✨
-
