@@ -26,3 +26,5 @@ You can run these snippets in any JavaScript environment:
 - Node.js terminal
 
 ---
+
+<img width="1366" height="768" alt="JavaScript" src="https://github.com/user-attachments/assets/d2ca1c6f-1d99-40b0-aacd-e528e1779fd5" />
