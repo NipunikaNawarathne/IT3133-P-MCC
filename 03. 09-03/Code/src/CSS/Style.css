@@ -1,0 +1,12 @@
+/* Styles for the logo section */
+.LogoBg {
+    background-color: #d2f04e;  /* Bright yellow-green background for visibility */
+    height: 100px;              /* Fixed height to maintain layout consistency */
+}
+
+/* Styles for the footer section */
+.FooterBg {
+    background-color: #c385c5;  /* Soft purple-pink background for a gentle look */
+    height: 100px;              /* Matches logo height for visual balance */
+    text-align: right;          /* Aligns text to the right side of the container */
+}
